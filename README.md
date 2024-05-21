@@ -32,19 +32,27 @@ The dashboard contains the following pages:
 
 ### Pandemic overview
 
+![pandemic_overview](Images/pandemic_overview.jpg)
+
 It shows statistics about COVID-19 cases (per 100k), deaths (per 100k) and total mask sales per state. The charts can be filtered by state, dates and population attributes.
 
 ### State details
 
+![state_details](Images/state_details.jpg)
+
 It shows dynamics of cases (per 100k) and deaths (per 100k) for a particular state for a whole pandemic duration on a monthly granularity. This page is connected to the first one to show data in context of user state selection.
 
 ### Statistics detail
+
+![statistics_detail](Images/statistics_details.jpg)
 
 It shows details about pandemic and its dynamics (the same metrics as on other pages). Also it contains a potential target market volume for face masks. The charts can be filtered by state, dates and population attributes.
 
 This is a key dashboard, which can be used for making marketing decisions.
 
 ### Pandemic details
+
+![statistics_detail](Images/pandemic_details.jpg)
 
 It contains detailed information about pandemic, population and mask usage metrics. This page is connected to the previous one to show data in context of user state selection. The charts can be filtered by state, dates and population attributes.
 
